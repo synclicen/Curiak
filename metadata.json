@@ -1,0 +1,8 @@
+{
+  "name": "Curiak",
+  "description": "Production-grade AI transcription platform with speaker diarization, audio restoration, and multi-format exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
